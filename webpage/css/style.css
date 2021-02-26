@@ -1,3 +1,16 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+#wrapper {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
 body {
     background-color: black;
 }
@@ -6,4 +19,12 @@ h1 {
 }
 p {
     color: white;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-right: 0px;
+    margin-left: 25px;
+}
+footer {
+    text-align: right;
+    margin-top: 100px;
 }
